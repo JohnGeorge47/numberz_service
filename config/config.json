@@ -1,0 +1,7 @@
+{
+    "PORT":3000,
+    "HOST_NAME":"localhost",
+    "MYSQL_USERNAME":"root",
+    "MYSQL_PASSWORD":"password",
+    "MYSQL_DB":"numberz"
+}
